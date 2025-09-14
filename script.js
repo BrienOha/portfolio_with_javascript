@@ -39,11 +39,11 @@ function setColor() {
 
 // Edit Feature
 const editBtn = document.createElement("button")
-editBtn.textContent = "Edit"
+editBtn.textContent = "EDIT"
 editBtn.classList.add("edit-btn")
 
 const saveBtn = document.createElement("button")
-saveBtn.textContent = "Save"
+saveBtn.textContent = "SAVE"
 saveBtn.classList.add("save-btn")
 saveBtn.style.display = "none"
 
